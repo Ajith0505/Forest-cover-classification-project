@@ -35,3 +35,8 @@ Dataset attribute info :
 # Work Flow of Project
 ![image](https://user-images.githubusercontent.com/92303116/140976683-41865fb6-4c3d-4cb2-8767-b8577c5e4ca5.png)
 
+# User Interface of the application
+
+![image](https://user-images.githubusercontent.com/92303116/140981464-dfc88159-142f-4acc-b65f-adc1fc6c92f7.png)
+
+
